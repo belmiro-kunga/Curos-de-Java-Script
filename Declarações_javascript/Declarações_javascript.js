@@ -18,6 +18,5 @@ document.getElementById("demo1").innerHTML = c;
 */
 
 
-var pessoa = Aluno;
-var aula = Programcao;
+
 
